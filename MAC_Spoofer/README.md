@@ -29,7 +29,9 @@ Advanced Features
 🔔 Telegram Notifications - Get alerts on MAC changes
 💻 Hostname Spoofing - Change hostname along with MAC
 
-## Start MacSpoofer MacOs🎯
+## Commands Used
+
+### Start MacSpoofer MacOs🎯
 
 ```bash
 # Interactive menu (recommended)
@@ -43,7 +45,7 @@ sudo python3 mac_spoofer.py -g
 # Quick random MAC change
 sudo python3 mac_spoofer.py -i en1 --random
 ```
-## Start MacSpoofer Linux🎯
+### Start MacSpoofer Linux🎯
 ```bash
 # Interactive menu (recommended)
 sudo python3 mac_spoofer.py
@@ -56,7 +58,7 @@ sudo python3 mac_spoofer.py -g
 # Quick random MAC change
 sudo python3 mac_spoofer.py -i wlan0 --random
 ```
-## Start MacSpoofer Windows🎯
+### Start MacSpoofer Windows🎯
 ```bash
 # Interactive menu (recommended)
 python mac_spoofer.py
