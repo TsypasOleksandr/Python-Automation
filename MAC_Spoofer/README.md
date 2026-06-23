@@ -1,6 +1,6 @@
 # MacSpoofer Pro
 
-## MacSpoofer Pro is a powerful, cross-platform Python script for managing and spoofing MAC addresses on your computer. It supports macOS, Linux, and Windows operating systems with an intuitive interface and extensive features.
+## MacSpoofer Pro is a powerful, cross-platform Python script for managing and spoofing MAC addresses on your computer. It supports macOS, Linux, and Windows operating systems with an intuitive interface and extensive features, GUI.
 
 ### Why Use MacSpoofer Pro?
 
