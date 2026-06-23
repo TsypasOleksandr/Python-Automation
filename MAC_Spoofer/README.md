@@ -4,30 +4,30 @@
 
 ### Why Use MacSpoofer Pro?
 
-🔒 Privacy Protection - Hide your real MAC address on public networks
-🎯 Network Testing - Simulate different devices for testing purposes
-🛡️ Security Auditing - Bypass MAC-based access controls
-📊 Network Analysis - Scan and monitor devices on your network
-🔄 Automation - Schedule MAC changes for enhanced privacy
-✨ Features
+1. 🔒 Privacy Protection - Hide your real MAC address on public networks
+2. 🎯 Network Testing - Simulate different devices for testing purposes
+3. 🛡️ Security Auditing - Bypass MAC-based access controls
+4. 📊 Network Analysis - Scan and monitor devices on your network
+5. 🔄 Automation - Schedule MAC changes for enhanced privacy
+6. ✨ Features
 
 Core Features
 
-🔄 Change MAC Address - Manual, random, or vendor-specific generation
-💾 Save & Restore - Store original MAC for easy recovery
-📋 History Tracking - Keep a log of all MAC changes
-🖥️ Cross-Platform - Works on macOS, Linux, and Windows
-🎨 GUI Interface - User-friendly graphical interface
-🚀 Command Line - Full CLI support for automation
-Advanced Features
+1. 🔄 Change MAC Address - Manual, random, or vendor-specific generation
+2. 💾 Save & Restore - Store original MAC for easy recovery
+3. 📋 History Tracking - Keep a log of all MAC changes
+4. 🖥️ Cross-Platform - Works on macOS, Linux, and Windows
+5. 🎨 GUI Interface - User-friendly graphical interface
+6. 🚀 Command Line - Full CLI support for automation
+7. Advanced Features
 
-🔍 Network Scanner - Discover all devices on your network
-🏭 Vendor MAC Generation - Generate MACs from popular vendors
-⏰ Scheduled Changes - Automatically change MAC at intervals
-📊 Export Results - Save scan results in JSON format
-🎯 WiFi Auto-Spoof - Change MAC when connecting to specific networks
-🔔 Telegram Notifications - Get alerts on MAC changes
-💻 Hostname Spoofing - Change hostname along with MAC
+1. 🔍 Network Scanner - Discover all devices on your network
+2. 🏭 Vendor MAC Generation - Generate MACs from popular vendors
+3. ⏰ Scheduled Changes - Automatically change MAC at intervals
+4. 📊 Export Results - Save scan results in JSON format
+5. 🎯 WiFi Auto-Spoof - Change MAC when connecting to specific networks
+6. 🔔 Telegram Notifications - Get alerts on MAC changes
+7. 💻 Hostname Spoofing - Change hostname along with MAC
 
 ## Commands Used
 
