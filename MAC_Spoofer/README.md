@@ -11,7 +11,7 @@
 5. 🔄 Automation - Schedule MAC changes for enhanced privacy
 6. ✨ Features
 
-Core Features
+## Core Features
 
 1. 🔄 Change MAC Address - Manual, random, or vendor-specific generation
 2. 💾 Save & Restore - Store original MAC for easy recovery
@@ -19,7 +19,8 @@ Core Features
 4. 🖥️ Cross-Platform - Works on macOS, Linux, and Windows
 5. 🎨 GUI Interface - User-friendly graphical interface
 6. 🚀 Command Line - Full CLI support for automation
-7. Advanced Features
+
+## Advanced Features
 
 1. 🔍 Network Scanner - Discover all devices on your network
 2. 🏭 Vendor MAC Generation - Generate MACs from popular vendors
